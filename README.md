@@ -1,3 +1,5 @@
+Note for Cademe = See https://discord.com/channels/839993398554656828/867347909741248532/1149479393362714715
+
 <p align="center" style="margin-top: 120px">
   <img width="1040" alt="Cover" src="https://github.com/timtbdev/Next.js-Blog-App/assets/25026241/f4d08597-8f6e-4a2e-8807-0490eb7859be">
 
